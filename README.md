@@ -1,6 +1,8 @@
 # Team Profile Builder
 
-### Builds an HTML page with Team member profiles for easey access to email and member info
+### Builds an HTML page with Team member profiles for easy access to email and member info
+
+This app will keep asking the user to enter team members' profiles until the user says no to adding more members.  At which point, the team webpage gets written to the `output/` folder.
 
 ## Table of Contents
 
@@ -8,7 +10,12 @@
 
 ## Installation
 
-        $ no npm installation setup. copy whole folder to machine.
+        $ git clone https://github.com/kdeguzm3/WeekTenTeamProfileGenerator.git
+
+Go into the repo folder: 
+        
+        $ npm install
+        
 
 ## Usage
 
